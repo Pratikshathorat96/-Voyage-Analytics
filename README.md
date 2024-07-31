@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e781fcf3-5c8e-4c3a-9e2d-f45d20dc8714)
+![image](https://github.com/user-attachments/assets/33b965f8-d77f-4aae-a321-e3ee01087d6b)
 
 
 ## Voyage Analytics: Integrating MLOps for Predictive and Recommender Systems in Travel
